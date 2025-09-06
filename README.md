@@ -33,26 +33,26 @@
 注意：加速链接可能会失效，如果无法更新订阅，请把所有链接从上到下每个试一遍！你可以在电脑浏览器上安装油猴脚本 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245)，在目录浏览点开 `list.txt`，然后在 `Raw` 按钮边上找到最新的加速链接。
 
 添加 Base64 订阅：
-- [原始链接](https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt)
-- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt)
+- [原始链接](https://raw.githubusercontent.com/ileesen/AutoMergePublicNodes/master/list.txt)
+- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/ileesen/AutoMergePublicNodes/master/list.txt)
 - 此处不公开部分私有镜像站
 
 以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.txt)
 
 或添加 Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
-- [原始链接](https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml)
-- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml)
+- [原始链接](https://raw.githubusercontent.com/ileesen/AutoMergePublicNodes/master/list.meta.yml)
+- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/ileesen/AutoMergePublicNodes/master/list.meta.yml)
 - 此处不公开部分私有镜像站
 
 以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/ileesen/AutoMergePublicNodes@master/list.meta.yml)
 
 或添加 Sing-Box 订阅：（第三方提供转换，不支持本项目的节点选择和分流规则）
 - [转换链接（第三方）](https://subapi.fxxk.dedyn.io/sub?target=singbox&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Fsnippets%2Fnodes.meta.yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&singbox.ipv6=1)
@@ -60,31 +60,3 @@
 ## 免责声明
 
 订阅节点仅作学习交流使用，用于查找资料，学习知识，不做任何违法行为。所有资源均来自互联网，仅供大家交流学习使用，出现违法问题概不负责。**做出违法行为需要承担法律责任，侥幸逃脱是不可能的**！~~为阻止违法行为，本项目随时可以停止运行~~ 本项目可以采取各种技术手段来尽力阻止违法行为。
-
-## 关于 Fork 和在线部署
-
-不是说不能 Fork，但是请记得定时点击仓库中的 Sync fork 来同步更新主程序。这个项目是有时效性的，老版本基本都不能用了。
-
-## 本地部署
-
-1. 克隆本仓库，由于本仓库的完整 Commit 历史极大，请务必指定 `--depth=1`：
-    ```bash
-    git clone https://github.com/chengaopan/AutoMergePublicNodes.git --depth=1
-    ```
-2. 安装依赖库（此步骤需要 Git）
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. 如果你所在地区没有墙或你在使用 Tun 模式或透明代理，请跳到第 9 步
-4. 如果你已有代理，请跳到第 8 步。
-5. 创建空白文件 `local_proxy.conf`
-6. 运行 `fetch.py`
-7. 将生成的订阅导入代理工具并正确配置好代理
-8. 在 `local_proxy.conf` 中按如下格式填入你的代理工具的 http(s) 地址，如：
-   ```plain
-   http://127.0.0.1:7890/
-   ```
-9. 运行 `fetch.py`
-10. 你已获得完整订阅
-
-如果本地仓库长期未更新，请删除仓库并重新克隆来同步最新更改，不要使用 `git pull`。
