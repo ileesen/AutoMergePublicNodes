@@ -1,10 +1,5 @@
 # NoMoreWalls
 
-[![Fetch Status](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml/badge.svg)](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml) [![Stars](https://img.shields.io/github/stars/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/stargazers) [![Watchers](https://img.shields.io/github/watchers/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/watchers) [![Forks](https://img.shields.io/github/forks/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/forks) [![Repo size](https://img.shields.io/github/repo-size/chengaopan/AutoMergePublicNodes)](https://github.com/chengaopan/AutoMergePublicNodes/commits) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=peasoft.NoMoreWalls) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/LICENSE.md) [![暮光计划](https://img.shields.io/badge/link-暮光计划--向戒网瘾学校宣战-red.svg)](https://proj3ctaurora.tilda.ws/)
-
-自动抓取合并互联网上的公开节点。
-🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
-
 ## 公告
 * 本项目fork [NoMoreWalls](https://github.com/peasoft/NoMoreWalls) 请优先为该项目 点亮☆
 * 为防止失联，[peasoft](https://github.com/peasoft)建立了镜像：<https://peasoft.github.io/NWalls.html>
