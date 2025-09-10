@@ -117,6 +117,14 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: 10|@HiByeVPNN️
+  password: 77b85b4f-8f73-495c-b919-a8fb386ca541
+  port: 22160
+  server: hsels.huasuan666.top
+  skip-cert-verify: true
+  sni: hsels.huasuan666.top
+  tls: false
+  type: hysteria2
 - name: 10|ان های ی د نل ترا💎 Config_Raye...
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
@@ -135,7 +143,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: 10|@Takv2ray_org | SE 🇸🇪
+- name: 10|⚡@Takv2ray_org | SE 🇸🇪
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -272,7 +280,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|@vpnserverrr
+- name: 10|@vpnserverrr👈
   password: c9edf5cb-67ef-4440-8684-b3d301df6488
   port: 21053
   server: yue-ru.yuetoto.net
