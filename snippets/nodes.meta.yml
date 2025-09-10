@@ -33,7 +33,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: 9,10|⚡@Takv2ray_org | US 🇸²
+- name: '9,10|@Selinc #1'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -49,7 +49,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9,10|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #3'
+- name: '9,10|WI-FI--@IRAN_V2RAY1 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -117,7 +117,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: 10|⚡@Takv2ray_org | SE 🇸🇪
+- name: 10|All-@IRAN_V2RAY1
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -165,35 +165,13 @@ proxies:
   name: 10|@Change_IP1-HYS
   obfs: salamander
   obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
-  password: JLsEBzvWlyyTmM7yND0jXjQg
-  port: 443
-  server: 147.45.154.150
-  sni: anymath.ir
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '10|@Change_IP1-HYS #1'
-  obfs: salamander
-  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
   password: M4DUOPrnAJhCXCBGoTA2xLDA
   port: 443
   server: 147.45.154.150
   sni: anymath.ir
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '10|@Change_IP1-HYS #2'
-  obfs: salamander
-  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
-  password: MomB5gcusrDl2k67OfsTUEJK
-  port: 443
-  server: 147.45.154.150
-  sni: anymath.ir
-  tls: false
-  type: hysteria2
-- name: 10|🇱@FreakConfig
+- name: 10|🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -205,7 +183,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '10|@Change_IP1-HYS #3'
+  name: '10|@Change_IP1-HYS #1'
   obfs: salamander
   obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
   password: UiIoI79ktLVSpD8Fh6vTq5l5
@@ -214,7 +192,7 @@ proxies:
   sni: anymath.ir
   tls: false
   type: hysteria2
-- name: '10|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #1'
+- name: 10|TEL > SaghiVpnXBOT [🇳🇱]
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -302,7 +280,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '10|🇩🇪@FreakConfig #3'
+- name: '10|🇩🇪@FreakConfig #2'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
@@ -346,17 +324,6 @@ proxies:
   server: android.yas-nowin.ir
   skip-cert-verify: false
   sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '10|@Change_IP1-HYS #4'
-  obfs: salamander
-  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
-  password: wieZ9G0FbEecGx2kXaZLchtt
-  port: 443
-  server: 147.45.154.150
-  sni: anymath.ir
   tls: false
   type: hysteria2
 - name: 10|@SaghiVpnXBOT 🇩🇪[🇩🇪]
