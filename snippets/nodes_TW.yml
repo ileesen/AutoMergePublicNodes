@@ -1,9 +1,1 @@
-proxies:
-- name: 14|TW_speednode_0042
-  password: 49161ab9bae14f3c
-  port: 30006
-  server: tt132m.tiankuotechnology.top
-  skip-cert-verify: false
-  sni: tt132m.tiankuotechnology.top
-  type: trojan
-  udp: true
+proxies: []
