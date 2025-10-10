@@ -71,7 +71,7 @@ proxies:
     headers:
       Host: www.baidu.com
     path: /cbf7f6acabd0dde4bef067580c126fed77a00de7
-- name: 12,13,14|CN_speednode_0031
+- name: 12,13|香港6|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 4400
@@ -79,7 +79,6 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: 12,13|日本2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
@@ -119,7 +118,7 @@ proxies:
   server: 218.237.185.230
   tfo: false
   type: ss
-- name: 12,13,14|JP_speednode_0061
+- name: 12,13,14|JP_speednode_0052
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 5041
@@ -128,7 +127,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
   udp: true
-- name: 12,13,14|JP_speednode_0062
+- name: 12,13,14|JP_speednode_0051
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 5328
@@ -137,7 +136,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
   udp: true
-- name: 12,13,14|US_speednode_0113
+- name: 12,13,14|US_speednode_0080
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 443
@@ -146,7 +145,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
   udp: true
-- name: 12,13,14|CN_speednode_0030
+- name: 12,13,14|CN_speednode_0024
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 6752
@@ -172,7 +171,7 @@ proxies:
   tls: false
   type: vmess
   uuid: f6771d73-462f-488e-8419-a133f34d051a
-- name: 14|SG_speednode_0083
+- name: 14|SG_speednode_0068
   network: ws
   password: wb6368
   port: 2087

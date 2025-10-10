@@ -34,7 +34,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 14|JP_speednode_0060
+- name: 14|JP_speednode_0050
   network: ws
   port: 1443
   server: 140.238.62.82
