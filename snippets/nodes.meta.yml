@@ -1,14 +1,4 @@
 proxies:
-- name: '9,10|🇳🇱 - NL - @freeOnlineVPN #7'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35000
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
 - name: 9|@NoForcedheaven
   obfs: salamander
   obfs-password: 9242a8bf
@@ -24,22 +14,6 @@ proxies:
   server: lsyd1.lansecs.top
   skip-cert-verify: true
   sni: lsyd1.lansecs.top
-  tls: false
-  type: hysteria2
-- name: 10|@v2ray_configs_pool🔷
-  password: 0d89751a-4321-402a-96ad-f221972d133e
-  port: 58330
-  server: mla3.maliaojc.top
-  skip-cert-verify: true
-  sni: mla3.maliaojc.top
-  tls: false
-  type: hysteria2
-- name: 10|🔷🆔@v2ray_configs_pool🔷
-  password: 0fe43539-46e7-417f-9d76-edded21c6b10
-  port: 58338
-  server: lsus3.lansecs.top
-  skip-cert-verify: true
-  sni: lsus3.lansecs.top
   tls: false
   type: hysteria2
 - name: 10|@Mr_Config_Group
@@ -68,22 +42,6 @@ proxies:
   sni: gb.gomeow.online
   tls: false
   type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #1'
-  password: 1f478a82-d4af-4b76-8ab1-355d0e1ce7b9
-  port: 58338
-  server: lsus3.lansecs.top
-  skip-cert-verify: true
-  sni: lsus3.lansecs.top
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #2'
-  password: 1f478a82-d4af-4b76-8ab1-355d0e1ce7b9
-  port: 58338
-  server: lsxg1.lansecs.top
-  skip-cert-verify: true
-  sni: lsxg1.lansecs.top
-  tls: false
-  type: hysteria2
 - name: 10|All-@V2rayAlpha--5
   password: 20050105zhu
   port: 51541
@@ -106,14 +64,6 @@ proxies:
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 129.153.59.26
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #3'
-  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
-  port: 30300
-  server: 40.233.80.237
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
@@ -277,14 +227,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #4'
-  password: 38447f0d-84fe-4823-9fbd-c2c098e7ec8c
-  port: 57300
-  server: sfjxjp.sufujia.top
-  skip-cert-verify: true
-  sni: sfjxjp.sufujia.top
-  tls: false
-  type: hysteria2
 - name: 10|All-@V2rayAlpha--3
   password: 4a25ab9e-66e3-435a-97a4-276b5c3a1947
   port: 443
@@ -382,14 +324,6 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #5'
-  password: 619bc9f0-ae50-45d5-b349-4ed0e17d0881
-  port: 58330
-  server: mla5.maliaojc.top
-  skip-cert-verify: true
-  sni: mla5.maliaojc.top
-  tls: false
-  type: hysteria2
 - name: 10|rya
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
@@ -444,14 +378,6 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #6'
-  password: 6cb8a5dc-6e80-4fe1-8d4b-22618dca4746
-  port: 58330
-  server: mla6.maliaojc.top
-  skip-cert-verify: true
-  sni: mla6.maliaojc.top
-  tls: false
-  type: hysteria2
 - name: '10|DE-telegram-@ISVvpn   :  '
   password: 70197404-7b40-45e4-bb9c-8bc8995012ae
   port: 24568
@@ -464,14 +390,6 @@ proxies:
   port: 25684
   server: us-nb-01.linlujs.pw
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #7'
-  password: 7358ac71-a5e3-49b4-a83d-61f5cb9afad5
-  port: 58338
-  server: lsxg1.lansecs.top
-  skip-cert-verify: true
-  sni: lsxg1.lansecs.top
   tls: false
   type: hysteria2
 - name: '10|@V2rayNG3 #9'
@@ -508,7 +426,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: '10|All--@V2rayAlpha--5 #1'
+- name: '10|🇸🇪 - SE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -518,7 +436,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #1'
+- name: 10|🇳🇱 - NL - @freeOnlineVPN
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
   password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
@@ -528,7 +446,7 @@ proxies:
   sni: net2025.afsharidempire.uk
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #3'
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
   password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
@@ -536,14 +454,6 @@ proxies:
   server: net2025.afsharidempire.uk
   skip-cert-verify: true
   sni: net2025.afsharidempire.uk
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #8'
-  password: 8e2b5009-f215-4341-a155-2a33f00f6c45
-  port: 58338
-  server: lsdg1.lansecs.top
-  skip-cert-verify: true
-  sni: lsdg1.lansecs.top
   tls: false
   type: hysteria2
 - name: '10|All-@V2rayAlpha--5 #1'
@@ -559,14 +469,6 @@ proxies:
   server: 85.208.9.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #9'
-  password: 9284f917-94d0-4754-aee2-0c9e5420c35b
-  port: 29101
-  server: huhu.gogogo.qpon
-  skip-cert-verify: false
-  sni: huhu.gogogo.qpon
   tls: false
   type: hysteria2
 - name: 10|All--@V2ray_Alpha-1
@@ -664,7 +566,17 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #9'
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #5'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 35000
+  server: 206.71.158.37
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #6'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -674,7 +586,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #10'
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #7'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -684,17 +596,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #12'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36400
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: 🔒 [By EbraSha]
-  tls: false
-  type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #15'
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -724,7 +626,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|🇧 - GB - @freeOnlineVPN
+- name: 10| - GB - @freeOnlineVPN
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -733,7 +635,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|🇬🇧 - GB - @freeOnlineVPN #3'
+- name: '10|🇬🇧 - GB - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -743,7 +645,7 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: '10|🇬🇧 - GB - @freeOnlineVPN #4'
+- name: '10|🇬🇧 - GB - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -751,14 +653,6 @@ proxies:
   server: 81.168.83.89
   skip-cert-verify: true
   sni: 🔒 [By EbraSha]
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #10'
-  password: aa56657a-12b3-4041-b7e5-1c72c50f5900
-  port: 58338
-  server: lsus3.lansecs.top
-  skip-cert-verify: true
-  sni: lsus3.lansecs.top
   tls: false
   type: hysteria2
 - name: '10|@Selinc #5'
@@ -777,15 +671,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #11'
-  password: b300badf-ed18-49fc-8ad0-02812e238c5d
-  port: 58330
-  server: mla6.maliaojc.top
-  skip-cert-verify: true
-  sni: mla6.maliaojc.top
-  tls: false
-  type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #19'
+- name: '10|🇱 - NL - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -805,7 +691,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #20'
+- name: '10|🇳🇱@FreakConfig #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -813,14 +699,6 @@ proxies:
   server: dir.cybsecguru.com
   skip-cert-verify: true
   sni: jnir.pichondan.com
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #12'
-  password: ba5c4ab3-b2fa-47fe-ac81-5f7ed72adc6c
-  port: 54265
-  server: banmabanmabanmabanmabanmabanma2.wanlidag.top
-  skip-cert-verify: true
-  sni: banmabanmabanmabanmabanmabanma2.wanlidag.top
   tls: false
   type: hysteria2
 - name: '10|@sunflowerplato🌻 #1'
@@ -868,14 +746,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #13'
-  password: d3d6040e-5a51-473f-95f0-4fab82a42672
-  port: 58338
-  server: lsxg1.lansecs.top
-  skip-cert-verify: true
-  sni: lsxg1.lansecs.top
-  tls: false
-  type: hysteria2
 - name: 10|All--@V2rayAlpha-1
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
@@ -892,14 +762,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #14'
-  password: dcdd09ad-4519-46f7-8107-4c4290a9b2a3
-  port: 13805
-  server: 192.18.157.90
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '10|@V2rayNG3 #16'
   password: dongtaiwang.com
   port: 50717
@@ -914,38 +776,6 @@ proxies:
   server: 51.159.111.32
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #15'
-  password: e42a38c4-4bea-42d6-90f1-3076e12f8c51
-  port: 58338
-  server: lsdg1.lansecs.top
-  skip-cert-verify: true
-  sni: lsdg1.lansecs.top
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #16'
-  password: e42a38c4-4bea-42d6-90f1-3076e12f8c51
-  port: 58338
-  server: lshg1.lansecs.top
-  skip-cert-verify: true
-  sni: lshg1.lansecs.top
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #17'
-  password: e42a38c4-4bea-42d6-90f1-3076e12f8c51
-  port: 58338
-  server: lsus3.lansecs.top
-  skip-cert-verify: true
-  sni: lsus3.lansecs.top
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #18'
-  password: e42a38c4-4bea-42d6-90f1-3076e12f8c51
-  port: 58338
-  server: lsxg1.lansecs.top
-  skip-cert-verify: true
-  sni: lsxg1.lansecs.top
   tls: false
   type: hysteria2
 - name: '10|telegram-@ISVvpn #2'
@@ -987,14 +817,6 @@ proxies:
   server: nl1.oomz.ru
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '10|🔷🆔@v2ray_configs_pool🔷 #19'
-  password: ff860485-18a3-4ce6-bd56-93fe4b754dcf
-  port: 29101
-  server: mg22.gogogo.qpon
-  skip-cert-verify: false
-  sni: mg22.gogogo.qpon
   tls: false
   type: hysteria2
 - name: '10|@sunflowerplato🌻 #4'
