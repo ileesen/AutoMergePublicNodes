@@ -43,7 +43,7 @@ hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?insecure=1
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?insecure=1&sni=🔒#10%7CAll-%40V2rayAlpha--6
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?insecure=1&sni=hsdg.huasuan666.top#10%7CAll--%40V2rayAlpha--9
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?insecure=1&sni=hsdg.huasuan666.top#10%7CAll--%40V2rayAlpha--7
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?insecure=1&sni=hshl.huasuan666.top#10%7CMCI-%40V2rayAlpha--5
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?insecure=1&sni=hshl.huasuan666.top#10%7CAll-%40V2ray_Alpha--39
 hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443?insecure=1&sni=us11.588878.xyz&obfs=salamander&obfs-password=jjQQP9Av2l6BRdP5#10%7Cr%E2%99%A1ya%20%231
 hysteria2://5ea499f5c73554214870e187a55f4d71@dd.openaccessnode.com:989?insecure=0&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#10%7C%F0%9F%87%B8%F0%9F%87%AA%20-%20SE%20-%20%40freeOnlineVPN
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.40:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#10%7CMCi--%40IRAN_V2RAY1

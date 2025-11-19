@@ -357,7 +357,7 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: 10|MCI-@V2rayAlpha--5
+- name: 10|All-@V2ray_Alpha--39
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22157
   server: hshl.huasuan666.top
