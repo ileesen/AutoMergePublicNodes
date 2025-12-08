@@ -193,16 +193,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9,10|All-@V2rayAlpha-26
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
-  password: 77238c49bd20e407f05e0c073ad08fdb
-  port: 989
-  server: dd.openaccessnode.com
-  skip-cert-verify: true
-  sni: dd.ircybersec.org
-  tls: false
-  type: hysteria2
 - name: 9|KR
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
@@ -930,6 +920,16 @@ proxies:
   server: 83.147.253.96
   skip-cert-verify: true
   sni: webservice-admin.tgju.org
+  tls: false
+  type: hysteria2
+- name: 10|All-@V2rayAlpha-26
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
+  password: 77238c49bd20e407f05e0c073ad08fdb
+  port: 989
+  server: dd.openaccessnode.com
+  skip-cert-verify: true
+  sni: dd.ircybersec.org
   tls: false
   type: hysteria2
 - name: 10|ا ها ر ر ن ترا💎 Config_Rayegan...
