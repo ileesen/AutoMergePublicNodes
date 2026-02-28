@@ -1,6 +1,16 @@
 proxies:
+- name: 9|🇬🇧 T.Me/V2RayyNGvpn 🇬🇧
+  obfs: salamander
+  obfs-password: V2RayyNGvpn$KroukyGod
+  password: qLLWHkBP8O
+  port: 443
+  server: 212.74.39.26
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
-  name: 14|GB_speednode_0006
+  name: 13|GB_speednode_0006
   port: 443
   reality-opts:
     public-key: kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w
@@ -14,7 +24,7 @@ proxies:
   uuid: 2a8391ef-383c-4321-ac25-89b50973ab73
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 14|GB_speednode_0008
+  name: 13|GB_speednode_0008
   port: 443
   reality-opts:
     public-key: 2HWC3TKZmYDORsrGqTTOITNFBp6ANhwgERK6lPcVbic
