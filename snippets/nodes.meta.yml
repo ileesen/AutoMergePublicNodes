@@ -1,40 +1,10 @@
 proxies:
-- name: 8|@Trick_mobil
-  password: 0b8a288c
-  port: 65160
-  server: 107.174.181.241
-  skip-cert-verify: true
-  sni: en.snu.ac.kr
-  tls: false
-  type: hysteria2
-- name: '8|@Trick_mobil #1'
-  password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
-  port: 1743
-  server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
-  skip-cert-verify: true
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: '8|@Trick_mobil #2'
-  password: 5046SHWqk6
-  port: 844
-  server: 91.132.51.160
-  tls: false
-  type: hysteria2
-- name: 8|2
+- name: 8|美国2
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg2.mangshe.xyz
   skip-cert-verify: true
   sni: mg2.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: 8|1
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2055
-  server: xjp1.mangshe.xyz
-  skip-cert-verify: true
-  sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 8|JP
