@@ -65,14 +65,6 @@ proxies:
   sni: 167.86.100.40
   tls: false
   type: hysteria2
-- name: '10|@V2HUBIR #1'
-  password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
-  port: 47974
-  server: 75.127.13.83
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 10|19@oneclickvpnkeys
   obfs: salamander
   obfs-password: YxNSWNJUQkeKDiPc
@@ -165,7 +157,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '10|@V2HUBIR #2'
+- name: '10|@V2HUBIR #1'
   password: dongtaiwang.com
   port: 22000
   server: 62.210.124.146
@@ -174,14 +166,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: 10|Telegram:@config_proxy 😍
-  password: fa220328-e905-4b67-a4f0-7fec43eac048
-  port: 48801
-  server: in-loc01.lada.mom
-  skip-cert-verify: false
-  sni: in-loc01.lada.mom
-  tls: false
-  type: hysteria2
-- name: '10|Telegram:@config_proxy 😍 #1'
   obfs: salamander
   obfs-password: GRxFC3OtWF8F8f7M
   password: fa220328-e905-4b67-a4f0-7fec43eac048
