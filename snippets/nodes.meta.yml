@@ -63,25 +63,6 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: '9|Telegram:@config_proxy '
-  obfs: none
-  password: 8b39d955-b242-40f3-ba29-e558a9b7096b
-  port: 2056
-  server: db1.mangshe.xyz
-  skip-cert-verify: true
-  sni: db1.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: 9|+@Azarakhsh_Proxy+
-  obfs: salamander
-  obfs-password: KevinZakarian
-  password: KevinZakarian
-  port: 8443
-  server: 179.61.132.96
-  skip-cert-verify: true
-  sni: 179.61.132.96
-  tls: false
-  type: hysteria2
 - name: 9| - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -168,6 +149,14 @@ proxies:
   server: 132.145.52.10
   skip-cert-verify: true
   sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: '9|Telegram:@config_proxy '
+  password: fe0fda62-79ff-467e-bef4-983322c1d21b
+  port: 56309
+  server: hkt.ccwink.cc
+  skip-cert-verify: true
+  sni: hkt.ccwink.cc
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
