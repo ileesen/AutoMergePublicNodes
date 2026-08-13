@@ -379,6 +379,14 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
+- name: 9|21@oneclickvpnkeys
+  password: 042a1881-44e4-4781-bd40-bf75164faf4f
+  port: 443
+  server: 193.23.194.78
+  skip-cert-verify: true
+  sni: nl1.noesissite.ru
+  tls: false
+  type: hysteria2
 - name: 9|@confiig_hub
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
@@ -719,16 +727,6 @@ proxies:
   port: 8443
   server: 185.79.138.71
   sni: hopp-legend-se.roxa.org
-  tls: false
-  type: hysteria2
-- name: 9|@configprxy
-  obfs: salamander
-  obfs-password: p61ckuavkc1s2hfl
-  password: kjq3gpn1xom1ted9
-  port: 52031
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 9|𝐧  𝐞𝐧  🇩🇪-@vpnserverrr
